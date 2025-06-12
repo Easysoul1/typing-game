@@ -20,7 +20,8 @@ Local fallback quotes if the API is unavailable
 
 Demo
 
-!Typing Game Screenshot
+![image](https://github.com/user-attachments/assets/c7dab0c1-e8b6-4b55-8040-1995171c3abc)
+
 
 
 
